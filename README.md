@@ -7,9 +7,8 @@ Predicting human behaviour and personality from the social media applications li
 2. Save it into dataset folder 
 3. Goto code files folder.
 4. Open model with vs code
-5. Set path of train and test dataset according to drive path.
-6. Run all code snippets step by step.
-7. Result will show the cluster and score of personality.
+5. Run all code snippets step by step.
+6. Result will show the cluster and score of personality.
 # Application: 
 1. Can be used to predict a person’s personality with an accuracy of 85.81%
 2. Used to identify the right candidate to the right candidate based on his personality and skill
